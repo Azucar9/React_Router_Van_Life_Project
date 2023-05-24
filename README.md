@@ -68,3 +68,31 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+### API Stuff
+
+Featured: https://api.themoviedb.org/3/movie/popular?api_key=3cffe8c8f4308aebaeeea1bc617c30f6&language=en-US&page=1
+
+Images: https://image.tmdb.org/t/p/w1280
+
+Search: https://api.themoviedb.org/3/search/movie?api_key=3cffe8c8f4308aebaeeea1bc617c30f6&language=en-US&page=1&include_adult=false
+
+https://image.tmdb.org/t/p/w1280
+
+https://api.themoviedb.org/3/search/movie?api_key=3cffe8c8f4308aebaeeea1bc617c30f6&query=
+
+
+
+### ES7 Snippets
+- rafce (arrow function with export)
+- rfce (regular function with export)
+- same as the file name
+- react auto import
+    - Uncheck
+    - React Snippets > Settings: Import React On Top
+
+
+avatar_url, login, company, bio.
